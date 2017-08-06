@@ -16,6 +16,7 @@
             <li><a href="observer/">Observer</a></li>
             <li><a href="decorator/">Decorator</a></li>
             <li><a href="factory/">Factory</a></li>
+            <li><a href="command/">Command</a></li>
         </ul>
     </nav>
 </body>
