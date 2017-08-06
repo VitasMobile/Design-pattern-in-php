@@ -14,6 +14,7 @@
             <li><a href="strategy/">Strategy: Ducks</a></li>
             <li><a href="singleton/">Singleton</a></li>
             <li><a href="observer/">Observer</a></li>
+            <li><a href="decorator/">Decorator</a></li>
         </ul>
     </nav>
 </body>
