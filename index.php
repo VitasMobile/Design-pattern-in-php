@@ -15,6 +15,7 @@
             <li><a href="singleton/">Singleton</a></li>
             <li><a href="observer/">Observer</a></li>
             <li><a href="decorator/">Decorator</a></li>
+            <li><a href="factory/">Factory</a></li>
         </ul>
     </nav>
 </body>
