@@ -18,6 +18,7 @@
             <li><a href="factory/">Factory</a></li>
             <li><a href="command/">Command</a></li>
             <li><a href="adapter/">Adapter</a></li>
+            <li><a href="facade/">Facade</a></li>
         </ol>
     </nav>
 </body>
