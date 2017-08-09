@@ -10,14 +10,15 @@
 <body>
     <h1>Patters:</h1>
     <nav>
-        <ul>
+        <ol>
             <li><a href="strategy/">Strategy: Ducks</a></li>
             <li><a href="singleton/">Singleton</a></li>
             <li><a href="observer/">Observer</a></li>
             <li><a href="decorator/">Decorator</a></li>
             <li><a href="factory/">Factory</a></li>
             <li><a href="command/">Command</a></li>
-        </ul>
+            <li><a href="adapter/">Adapter</a></li>
+        </ol>
     </nav>
 </body>
 </html>
